@@ -27,6 +27,8 @@ If you want to update any information into the portfolio change the contents in 
 You can change the style at assets/css/style.css file.
 ## operations
 You can change the operations at assets/js/script.js file.
+## run
+To Run the Portfolio just run the index.html file.
 
 
 ## License
